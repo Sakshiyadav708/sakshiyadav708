@@ -1,42 +1,36 @@
-# Hi 👋, I'm Sakshi Yadav
+# Hi, I'm Sakshi Yadav
+I'm a 4th Year B.Tech Computer Science Engineering student with a CGPA of 9.0. I'm currently learning Full Stack Web Development, Data Structures & Algorithms, and Flutter. I enjoy building projects that help me improve my problem-solving and development skills.
+# Skills
 
-🎓3rd Year Computer Science Engineering Student 
-📊CGPA: 9.0  
-💻Learning Full Stack Web Development, DSA & Flutter  
-🚀Passionate about building real-world projects
+* HTML
+* CSS
+* JavaScript
+* React (Learning)
+* Node.js (Learning)
+* Flutter (Learning)
+* Data Structures & Algorithms
 
- 🛠️ Tech Stack
+# Projects
+# AI Finance Tracker
+A personal finance tracker built with Python, Streamlit, and Machine Learning. It analyzes expenses, predicts spending patterns, and provides budget recommendations.
 
-- HTML
-- CSS
-- JavaScript
-- React (Learning)
-- Node.js (Learning)
-- Flutter (Learning)
-- DSA
+# Food Delivery App
+A food delivery application built using Flutter with a simple and user-friendly interface.
 
+# Yoga Website
+A responsive website built using HTML, CSS, and JavaScript.
 
- 🚀 Projects
+# Currently Learning
+* Full Stack Web Development
+* Data Structures & Algorithms
+* Flutter
 
-🧘 Yoga Website
-Responsive yoga website built using HTML, CSS and JavaScript.
+# Connect with Me
+**LinkedIn:** https://www.linkedin.com/in/sakshiyadav708
 
- 🍔 Food Delivery App
-Mobile app developed using Flutter.
+**Email:** [sy117585@gmail.com](mailto:sy117585@gmail.com)
 
- 💰 AI Finance Project
-AI-powered finance management application.
-
- 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- Full Stack Web Development
-- Flutter
+Thanks for visiting my GitHub profile!
 
 
-## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/sakshiyadav708
-- Email: sy117585@gmail.com
-
-⭐ Thanks for visiting my profile!
