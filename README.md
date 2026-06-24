@@ -14,7 +14,7 @@
 - Node.js (Learning)
 - Flutter (Learning)
 - DSA
-- Git & GitHub
+
 
  🚀 Projects
 
